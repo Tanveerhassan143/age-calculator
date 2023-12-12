@@ -65,6 +65,6 @@ document.write(Math.floor(c/(1000*60*60*24)/365.25));
 
 
 
+document.write("<hr>")
 
-
-document.write("<p>Rana Tanveer Hassan ,web developers</p>")
+document.write("Rana Tanveer Hassan ,web developers")
