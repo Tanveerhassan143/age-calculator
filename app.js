@@ -66,8 +66,5 @@ document.write(Math.floor(c/(1000*60*60*24)/365.25));
 
 
 
-document.write("<br>")
-document.write("<h1>The first 3 letters</h1>")
- document.write("<hr>")
 
 document.write("<p>Rana Tanveer Hassan ,web developers</p>")
