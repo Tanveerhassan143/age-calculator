@@ -2,7 +2,7 @@
 document.write("<center>")
   document.write("<h1>Age calculator</h1>")
   document.write("<hr>")
-  
+
 document.write("<br>")
 document.write("<h1>Today Date</h1>")
 var abc = new Date();
@@ -70,8 +70,4 @@ document.write("<br>")
 document.write("<h1>The first 3 letters</h1>")
  document.write("<hr>")
 
-
- var now=new Date().toString();
- var ab=now.slice(0,4);
- document.write(ab);
- document.write("</center>")
+document.write("<p>Rana Tanveer Hassan ,web developers</p>")
